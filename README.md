@@ -1,2 +1,2 @@
 # flask-angular
-experiments with flask, angular , redis and docker
+experiments with flask, angular , redis, nginx and docker
